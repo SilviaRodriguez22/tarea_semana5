@@ -1,0 +1,8 @@
+¿Qué hace esta ruta?
+Esta ruta crea un endpoint POST llamado /reporte que 
+recibe un mensaje enviado y responde con un archivo json.
+
+¿Para qué podría servir en una aplicación comunitaria?
+En una aplicación comunitaria, esta ruta podría servir para que los usuarios envíen reportes
+o incidencias a la organización o a los administradores; Reportar problemas en el barrio, como luminarias dañadas, baches o fugas de agua,
+Enviar sugerencias para mejorar los servicios o las actividades de la comunidad o Notificar emergencias o situaciones que requieran atención rápida.
